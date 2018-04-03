@@ -10,6 +10,7 @@ public class App
     {
     	//This will print hello world in the console
         System.out.println( "Hello World!" );
-        
+        int i = 0;
+        String s = "";
     }
 }
